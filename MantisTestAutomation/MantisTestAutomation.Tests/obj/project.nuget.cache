@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ytx80i3tOZ3gKruncwT8vvLVPiVBqMYvXAb1fU6ylbQ3eLMxyDBnoVJUBJ0ln4Mq8OPcLJvL1gLUMqyCooch3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junio\\Desktop\\PersonalProjects\\Mantis\\MantisTestAutomation\\MantisTestAutomation.Tests\\MantisTestAutomation.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.codecoverage\\17.6.3\\microsoft.codecoverage.17.6.3.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.3\\microsoft.net.test.sdk.17.6.3.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.3\\microsoft.testplatform.objectmodel.17.6.3.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.3\\microsoft.testplatform.testhost.17.6.3.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.32.0\\selenium.webdriver.geckodriver.0.32.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MantisTestAutomation.Tests depends on NUnit3TestAdapter (>= 4.5.2) but NUnit3TestAdapter 4.5.2 was not found. An approximate best match of NUnit3TestAdapter 4.6.0 was resolved.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
